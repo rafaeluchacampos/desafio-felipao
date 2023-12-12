@@ -1,11 +1,12 @@
 # DESAFIO DO FELIPÃO
 
-**O Que É?
+**O Que É?**
 
 - Desafios do Bootcamp **Potência Tech iFood** da **DIO**. 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # 1️⃣ Desafio Classificador de nível de Herói
 
@@ -35,6 +36,7 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
